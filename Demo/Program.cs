@@ -42,6 +42,7 @@
 
             int[] numbers03 = { 1, 2, 3, 4, 5 }; // Third Method
 
+
             // int[] numbers04 = [1,2,3,4,5]; // .net 8.0 -> c# 12.0
 
             Console.WriteLine($"The Length Of Array: {numbers03.Length} And The dimention is: {numbers03.Rank}");
